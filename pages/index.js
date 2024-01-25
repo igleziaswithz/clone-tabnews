@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Frase de teste + Mudança para novo commit</h1>
+    return <h1>Frase alterada</h1>
 }
 
 export default Home;
